@@ -6,14 +6,11 @@ Run the script
 ```bash
 $ make
 ```
-If you want to change the amount of total numbers or the max number
+If you want to change the amount of total numbers you can do the following
 ```bash
-$ make TOTAL_NUMBERS=<number> MAX_RANDOM=<number>
+$ make TOTAL_NUMBERS=<number>
 ```
 
 ## Defaults
 **TOTAL_NUMBERS**
-500
-
-**MAX_RANDOM**
 500
